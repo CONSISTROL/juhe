@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: gray;
+}
+
+h2 {
+    color: gray;
+}
+
+p {
+    color: black;
+    font-family: consolas;
+    text-indent: 50px;
+}
